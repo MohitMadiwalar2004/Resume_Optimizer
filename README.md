@@ -12,8 +12,7 @@ Smart ATS is a Streamlit-based web app that uses Google's Gemini AI to analyze r
 ## Installation
 ### Clone the repository:
 ```sh
-git clone https://github.com/your-username/smart-ats.git
-cd smart-ats
+https://github.com/MohitMadiwalar2004/Resume_Optimizer.git
 ```
 
 ### Install dependencies:
