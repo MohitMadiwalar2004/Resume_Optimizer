@@ -34,5 +34,5 @@ streamlit run app.py
 MIT License.
 
 ## Author
-[Your Name](https://github.com/your-username)
+Mohit Madiwalar (https://github.com/your-username)
 
